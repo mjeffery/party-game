@@ -1,0 +1,14 @@
+.desktop {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.web {
+  	width: 1280px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
